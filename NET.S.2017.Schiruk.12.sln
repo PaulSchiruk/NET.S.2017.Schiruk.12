@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeEvent", "TimeEvent\TimeEvent.csproj", "{1ABE3FC9-6037-4DEE-BA46-823C3224D859}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{F2D333AF-97E9-4196-8DB9-7ADF44097E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsMessage", "EventsMessage\EventsMessage.csproj", "{D702E403-70AB-4F1D-A6F3-E5AE2C4FEA4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1ABE3FC9-6037-4DEE-BA46-823C3224D859}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ABE3FC9-6037-4DEE-BA46-823C3224D859}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ABE3FC9-6037-4DEE-BA46-823C3224D859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D333AF-97E9-4196-8DB9-7ADF44097E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D333AF-97E9-4196-8DB9-7ADF44097E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D333AF-97E9-4196-8DB9-7ADF44097E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D333AF-97E9-4196-8DB9-7ADF44097E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D702E403-70AB-4F1D-A6F3-E5AE2C4FEA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D702E403-70AB-4F1D-A6F3-E5AE2C4FEA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D702E403-70AB-4F1D-A6F3-E5AE2C4FEA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D702E403-70AB-4F1D-A6F3-E5AE2C4FEA4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
